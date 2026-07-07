@@ -1,0 +1,23 @@
+# Build results
+bin/
+obj/
+Debug/
+Release/
+
+# Visual Studio files
+.vs/
+*.user
+*.suo
+
+# Backup & logs
+*.log
+*.bak
+
+# Temporary files
+*.tmp
+*.temp
+
+# Auto-generated files
+*.exe
+*.dll
+*.pdb
