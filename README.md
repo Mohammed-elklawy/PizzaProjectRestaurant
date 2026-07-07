@@ -25,9 +25,9 @@ It demonstrates handling events, controls, and UI logic in a practical way.
 ## 📷 Screenshots
 
 ![Main Form](Screenshots/main-form.png)
-![About Us](screenshots/About-us.png)
-![Ordering Form](screenshots/Ordering-form.png)
-![Order Summary](screenshots/order-summary.png)
+![About Us](Screenshots/About-us.png)
+![Ordering Form](Screenshots/Ordering-form.png)
+![Order Summary](Screenshots/order-summary.png)
 
 ## 🛠️ How to Run
 1. Open the project in **Visual Studio**.
