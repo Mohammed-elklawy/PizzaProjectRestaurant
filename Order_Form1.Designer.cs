@@ -504,7 +504,7 @@
             // btnReset
             // 
             this.btnReset.BackColor = System.Drawing.Color.DarkGreen;
-            this.btnReset.BackgroundImage = global::PizzaResturantProject.Properties.Resources.R_W;
+            this.btnReset.BackgroundImage = ((System.Drawing.Image)(resources.GetObject("btnReset.BackgroundImage")));
             this.btnReset.Font = new System.Drawing.Font("Aardvark", 18F, System.Drawing.FontStyle.Bold);
             this.btnReset.ForeColor = System.Drawing.SystemColors.Window;
             this.btnReset.Location = new System.Drawing.Point(68, 537);
